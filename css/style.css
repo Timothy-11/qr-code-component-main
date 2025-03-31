@@ -1,0 +1,50 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color: cadetblue;
+}
+
+.qr {
+    image-orientation: 0 auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    border: pink solid;  
+}
+
+.con {
+    margin: 10px;
+    padding: 30px;
+    width: 300px; /* Set the desired width */
+    height: 500px; /* Set the desired height */
+    background-color: white; /* Optional: Add a background color to visualize the box */
+    
+}
+
+.text {
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+   
+    padding: 0 13px;
+}
+
+footer {
+
+}
+
+
+
+margin: 10px;
+width: 800px;
+height: 800px;
+background-color: tomato;
